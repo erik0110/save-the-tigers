@@ -1,0 +1,38 @@
+body {
+  background-color: #F68D00
+  border: 8px solid black;
+}
+h1 {
+  font-family: impact, sans-serif;
+  font-size: 32px;
+  font-weight: bold;
+  text-decoration: underline;
+}
+.p1 {
+  font-family: Georgia, serif;
+  font-size: 12px;
+}
+.p2 {
+  font-family: arial, sans-serif;
+  font-size: 12px,
+}
+img.tiger/eyes {
+  width: 900px;
+  height: 200px;
+  padding: 8px;
+}
+.column1of2 {
+  float:left;
+  width: 600px;
+  margin: 10px;
+}
+.column2of2 {
+  float:left;
+  width: 320px;
+  margin: 10px;
+}
+img.majestic/tiger {
+  width: 420px;
+  height: 250px;
+  align: left;
+}
